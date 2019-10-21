@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Mostrar grupos</title>
+	<title>Mostrar alumnos</title>
 
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -403,7 +403,7 @@
 						<!-- Main -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
-							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.html" class="nav-link">
+							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.php" class="nav-link">
 								<i class="icon-home4"></i>
 								<span>
 									Inicio
@@ -416,10 +416,10 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Alumnos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Alumnos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.html" class="nav-link active">Agregar alumno</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.html" class="nav-link">Editar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.html" class="nav-link active">Mostrar alumnos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
 							</ul>
 						</li>
 
@@ -427,11 +427,11 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Maestros</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Maestros">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.html" class="nav-link active">Agregar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
 								
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.html" class="nav-link active">Editar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.html" class="nav-link active">Mostrar maestros</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
 							</ul>
 						</li>
 
@@ -439,9 +439,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Grupos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Grupos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.html" class="nav-link">Añadir grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.html" class="nav-link">Editar grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.html" class="nav-link">Mostrar grupos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.php" class="nav-link">Editar grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
 							</ul>
 						</li>
 
@@ -449,10 +449,19 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Materias</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.html" class="nav-link">Añadir materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.html" class="nav-link">Editar materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.html" class="nav-link">Mostrar materias</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.php" class="nav-link">Editar materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
 							
+							</ul>
+						</li>
+
+						<li class="nav-item nav-item-submenu">
+							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Transporte</span></a>
+
+							<ul class="nav nav-group-sub" data-submenu-title="Materias">
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioTransporte.php" class="nav-link">Agregar transporte</a></li>
+											
 							</ul>
 						</li>
 
@@ -477,7 +486,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Grupos</span> - Mostrar grupos</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Alumnos</span> - Mostrar alumnos</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 
@@ -494,8 +503,8 @@
 					<div class="d-flex">
 						<div class="breadcrumb">
 							<a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Inicio</a>
-							<a href="form_layout_horizontal.html" class="breadcrumb-item">Grupos</a>
-							<span class="breadcrumb-item active">Mostrar grupos</span>
+							<a href="form_layout_horizontal.html" class="breadcrumb-item">Alumnos</a>
+							<span class="breadcrumb-item active">Mostrar alumnos</span>
 						</div>
 
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
@@ -532,14 +541,14 @@
 			<!-- Content area -->
 			<div class="content">
 
-				<button class="btn btn-success" data-toggle="modal" data-target="#modalDos">Editar grupo</button>
+				<button class="btn btn-success" data-toggle="modal" data-target="#modalUno">Editar alumno</button>
 
 							<!--Creando modal -->
-							<div class="modal fade" id="modalDos" tabindex="-1" role="dialog" aria-labelledby="tituloVentana" aria-hidden="true">
+							<div class="modal fade" id="modalUno" tabindex="-1" role="dialog" aria-labelledby="tituloVentana" aria-hidden="true">
 								<div class="modal-dialog" role="document">
 									<div class="modal-content">
 										<div class="modal-header">
-											<h5 id="tituloVentana">Editar grupo</h5>
+											<h5 id="tituloVentana">Editar alumno</h5>
 											<button class="close" data-dismiss="modal" aria-label="Cerrar">
 												<span aria-hidden="true">&times;</span>
 											</button>
@@ -550,7 +559,7 @@
 												<div class="form-group row">
 										           <label class="col-lg-3 col-form-label">Buscar:</label>
 										            <div class="col-lg-9">
-											            <input type="text" class="form-control" required pattern="[A-Za-z0-9]+" placeholder="Folio, nombre o clave del tutor" maxlength="30">
+											            <input type="text" class="form-control" required pattern="[A-Za-z0-9]+" placeholder="Nombre, apellido o matrícula" maxlength="30">
 											            <br>
 											            <button class="btn btn-success" type="button">Aceptar</button>
 
@@ -558,26 +567,34 @@
 
 											            <form action="#">
 											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Folio:</label>
+											            		<label class="col-lg-3 col-form-label">Nombre:</label>
 											            		<div class="col-lg-9">
-											            			<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="192A421" minlength="7" maxlength="7"> 
+											            			<input type="text" class="form-control" required pattern="[A-Za-z]+" placeholder="Christina Abigail" maxlength="30"> 
 											            		</div>
 											            	</div>
 
 											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Nombre:</label>
+											            		<label class="col-lg-3 col-form-label">Apellido:</label>
+
 											            		<div class="col-lg-9">
-											            			<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="ITI-1-1" maxlength="8">
+											            			<input type="text" class="form-control" required pattern="[A-Za-z]+" placeholder="Barrera Castillo" maxlength="30">
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Correo:</label>
+
+											            		<div class="col-lg-9">
+											            			<input type="text" class="form-control" required placeholder="christina.barrera12@gmail.com" maxlength="30">
 											            		</div>
 											            	</div>
 
 											            	<div class="form-group row">
 											            		<label class="col-lg-3 col-form-label">Carrera:</label>
+
 											            		<div class="col-lg-9">
 											            			<select class="form-control form-control-select2" data-fouc>
-
-											            				<option value="ITI">Ingeniería en Tecnologías de la Información</option>
-											            				<option value="ISA">Ingeniería en Sistemas Automotrices</option>
+											            				<option value="ITI">Ingeniería en Tecnologías de la Información</option><option value="ISA">Ingeniería en Sistemas Automotrices</option>
 											            				<option value="PYMES">Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</option>
 											            				<option value="MECA">Ingeniería en Mecatrónica</option>
 											            				<option value="MANU">Ingeniería en Tecnologías de Manufactura</option>
@@ -587,9 +604,9 @@
 
 											            	<div class="form-group row">
 											            		<label class="col-lg-3 col-form-label">Cuatrimestre:</label>
+
 											            		<div class="col-lg-9">
 											            			<select class="form-control form-control-select2" data-fouc>
-
 											            				<option value="1">1°</option>
 											            				<option value="2">2°</option>
 											            				<option value="3">3°</option>
@@ -605,9 +622,80 @@
 											            	</div>
 
 											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Tutor (clave):</label>
+											            		<label class="col-lg-3 col-form-label">Matrícula:</label>
+
 											            		<div class="col-lg-9">
 											            			<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Género:</label>
+
+											            		<div class="col-lg-9">
+											            			<div class="form-check form-check-inline">
+											            				<label class="form-check-label">
+											            					<input type="radio" class="form-input-styled" name="gender" checked data-fouc>Masculino
+											            				</label>
+											            			</div>
+
+											            			<div class="form-check form-check-inline">
+											            				<label class="form-check-label">
+											            					<input type="radio" class="form-input-styled" name="gender" data-fouc>
+											            					Femenino
+											            				</label>
+											            			</div>
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Teléfono:</label>
+
+											            		<div class="col-lg-9">
+											            			<input type="text" class="form-control" minlength="10" maxlength="10" pattern="[0-9]+" placeholder="(834) 347-98-23" title="El teléfono debe tener 10 cifras">
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Ubicación:</label>
+
+											            		<div class="col-lg-9">
+											            			<div class="row">
+											            				<div class="col-md-6">
+											            					<div class="mb-3">
+											            						<select data-placeholder="País" class="form-control form-control-select2" data-fouc>
+											            							<option></option>
+											            							<option value="1">México</option> 
+											            							<option value="2">USA</option> 
+											            							<option value="3">Canadá</option> 
+											            							<option value="4">Otro</option> 
+											            						</select>
+											            					</div>
+
+											            					<input type="text" placeholder="Código postal" class="form-control" pattern="[0-9]+" minlength="5" maxlength="5" required>
+											            				</div>
+
+											            				<div class="col-md-6">
+											            					<input type="text" placeholder="Estado/Entidad" class="form-control mb-3" pattern="[A-Za-z]+" required>
+											            					<input type="text" placeholder="Ciudad" class="form-control" pattern="[A-Za-z]+" required>
+											            				</div>
+											            			</div>
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Dirección:</label>
+
+											            		<div class="col-lg-9">
+											            			<input type="text" placeholder="Domicilio" class="form-control" required>
+											            		</div>
+											            	</div>
+
+											            	<div class="form-group row">
+											            		<label class="col-lg-3 col-form-label">Comentarios:</label>
+
+											            		<div class="col-lg-9">
+											            			<textarea rows="5" cols="5" class="form-control" placeholder="Escribe tu comentario aquí"></textarea>
 											            		</div>
 											            	</div>
 
@@ -630,7 +718,7 @@
 				<!-- Basic datatable -->
 				<div class="card">
 					<div class="card-header header-elements-inline">
-						<h5 class="card-title">Listado de grupos</h5>
+						<h5 class="card-title">Listado de alumnos</h5>
 						<div class="header-elements">
 							<div class="list-icons">
 		                		<a class="list-icons-item" data-action="collapse"></a>
@@ -644,22 +732,24 @@
 						<thead>
 							<tr>
 								<th>Opción</th>
-								<th>Folio</th>
 								<th>Nombre</th>
+								<th>Apellido</th>
+								<th>Correo</th>
 								<th>Carrera</th>
 								<th>Cuatrimestre</th>
-								<th>Clave del tutor</th>
+								<th>Matrícula</th>
 								<th class="text-center">Actions</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191A421</td>
-								<td>ITI-1-1</td>
+								<td>Paulina</td>
+								<td>Rodríguez</td>
+								<td>1111101@upv.edu.mx</td>
 								<td>Ingeniería en Tecnologías de la Información</td>
 								<td>1</td>
-								<td>2222201</td>
+								<td>1111101</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">
@@ -679,35 +769,12 @@
 
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191B421</td>
-								<td>ITI-1-2</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222202</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191C421</td>
-								<td>ISA-3-1</td>
+								<td>Juan</td>
+								<td>Pérez</td>
+								<td>1111102@upv.edu.mx</td>
 								<td>Ingeniería en Sistemas Automotrices</td>
-								<td>3</td>
-								<td>2222203</td>
+								<td>2</td>
+								<td>1111102</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">
@@ -727,35 +794,12 @@
 
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191D421</td>
-								<td>ISA-4-2</td>
-								<td>Ingeniería en Sistemas Automotrices</td>
-								<td>4</td>
-								<td>2222204</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191E421</td>
-								<td>PYMES-1-1</td>
+								<td>América</td>
+								<td>Barrón</td>
+								<td>1111103@upv.edu.mx</td>
 								<td>Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</td>
-								<td>1</td>
-								<td>2222205</td>
+								<td>3</td>
+								<td>1111103</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">
@@ -775,59 +819,12 @@
 
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191F421</td>
-								<td>ITI-1-3</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222206</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191G421</td>
-								<td>ITI-7-1</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222207</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191H421</td>
-								<td>ITI-8-1</td>
+								<td>Carlos</td>
+								<td>Domínguez</td>
+								<td>1111104@upv.edu.mx</td>
 								<td>Ingeniería en Mecatrónica</td>
-								<td>8</td>
-								<td>2222208</td>
+								<td>4</td>
+								<td>1111104</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">
@@ -847,11 +844,12 @@
 
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191I421</td>
-								<td>MANU-1-1</td>
+								<td>Esteban</td>
+								<td>Fuentes</td>
+								<td>1111105@upv.edu.mx</td>
 								<td>Ingeniería en Tecnologías de Manufactura</td>
-								<td>1</td>
-								<td>2222209</td>
+								<td>5</td>
+								<td>1111105</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">
@@ -871,11 +869,112 @@
 
 							<tr>
 								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191J421</td>
-								<td>ITI-9-2</td>
+								<td>Gabriela</td>
+								<td>Higuera</td>
+								<td>1111106@upv.edu.mx</td>
 								<td>Ingeniería en Tecnologías de la Información</td>
+								<td>6</td>
+								<td>1111106</td>
+								<td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+							<tr>
+								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
+								<td>Ignacio</td>
+								<td>Juárez</td>
+								<td>1111107@upv.edu.mx</td>
+								<td>Ingeniería en Sistemas Automotrices</td>
+								<td>7</td>
+								<td>1111107</td>
+								<td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+							<tr>
+								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
+								<td>Kevin</td>
+								<td>López</td>
+								<td>1111108@upv.edu.mx</td>
+								<td>Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</td>
+								<td>8</td>
+								<td>1111108</td>
+								<td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+							<tr>
+								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
+								<td>María</td>
+								<td>Niño</td>
+								<td>1111109@upv.edu.mx</td>
+								<td>Ingeniería en Mecatrónica</td>
 								<td>9</td>
-								<td>2222210</td>
+								<td>1111109</td>
+								<td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td>
+							</tr>
+
+							<tr>
+								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
+								<td>Olinda</td>
+								<td>Pérez</td>
+								<td>1111110@upv.edu.mx</td>
+								<td>Ingeniería en Tecnologías de Manufactura</td>
+								<td>10</td>
+								<td>1111110</td>
 								<td class="text-center">
 									<div class="list-icons">
 										<div class="dropdown">

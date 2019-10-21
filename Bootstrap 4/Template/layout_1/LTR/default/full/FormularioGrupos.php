@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Mostrar grupos</title>
+	<title>Añadir grupos</title>
 
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -403,7 +403,7 @@
 						<!-- Main -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
-							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.html" class="nav-link">
+							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.php" class="nav-link">
 								<i class="icon-home4"></i>
 								<span>
 									Inicio
@@ -416,10 +416,10 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Alumnos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Alumnos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.html" class="nav-link active">Agregar alumno</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.html" class="nav-link">Editar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.html" class="nav-link active">Mostrar alumnos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
 							</ul>
 						</li>
 
@@ -427,11 +427,11 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Maestros</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Maestros">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.html" class="nav-link active">Agregar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
 								
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.html" class="nav-link active">Editar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.html" class="nav-link active">Mostrar maestros</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
 							</ul>
 						</li>
 
@@ -439,9 +439,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Grupos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Grupos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.html" class="nav-link">Añadir grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.html" class="nav-link">Editar grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.html" class="nav-link">Mostrar grupos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.php" class="nav-link">Editar grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
 							</ul>
 						</li>
 
@@ -449,13 +449,12 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Materias</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.html" class="nav-link">Añadir materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.html" class="nav-link">Editar materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.html" class="nav-link">Mostrar materias</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.php" class="nav-link">Editar materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
 							
 							</ul>
 						</li>
-
 						
 						<!-- /main -->					
 						
@@ -477,7 +476,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Grupos</span> - Mostrar grupos</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Grupos</span> - Añadir grupo</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 
@@ -495,7 +494,7 @@
 						<div class="breadcrumb">
 							<a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Inicio</a>
 							<a href="form_layout_horizontal.html" class="breadcrumb-item">Grupos</a>
-							<span class="breadcrumb-item active">Mostrar grupos</span>
+							<span class="breadcrumb-item active">Añadir grupo</span>
 						</div>
 
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
@@ -532,370 +531,91 @@
 			<!-- Content area -->
 			<div class="content">
 
-				<button class="btn btn-success" data-toggle="modal" data-target="#modalDos">Editar grupo</button>
+				<!-- Horizontal form options -->
+				<div class="row">
+					<div class="col-md-6">
 
-							<!--Creando modal -->
-							<div class="modal fade" id="modalDos" tabindex="-1" role="dialog" aria-labelledby="tituloVentana" aria-hidden="true">
-								<div class="modal-dialog" role="document">
-									<div class="modal-content">
-										<div class="modal-header">
-											<h5 id="tituloVentana">Editar grupo</h5>
-											<button class="close" data-dismiss="modal" aria-label="Cerrar">
-												<span aria-hidden="true">&times;</span>
-											</button>
-										</div>
-										<div class="modal-body">
-
-											<div class="alert alert-success">
-												<div class="form-group row">
-										           <label class="col-lg-3 col-form-label">Buscar:</label>
-										            <div class="col-lg-9">
-											            <input type="text" class="form-control" required pattern="[A-Za-z0-9]+" placeholder="Folio, nombre o clave del tutor" maxlength="30">
-											            <br>
-											            <button class="btn btn-success" type="button">Aceptar</button>
-
-											            <br>
-
-											            <form action="#">
-											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Folio:</label>
-											            		<div class="col-lg-9">
-											            			<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="192A421" minlength="7" maxlength="7"> 
-											            		</div>
-											            	</div>
-
-											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Nombre:</label>
-											            		<div class="col-lg-9">
-											            			<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="ITI-1-1" maxlength="8">
-											            		</div>
-											            	</div>
-
-											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Carrera:</label>
-											            		<div class="col-lg-9">
-											            			<select class="form-control form-control-select2" data-fouc>
-
-											            				<option value="ITI">Ingeniería en Tecnologías de la Información</option>
-											            				<option value="ISA">Ingeniería en Sistemas Automotrices</option>
-											            				<option value="PYMES">Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</option>
-											            				<option value="MECA">Ingeniería en Mecatrónica</option>
-											            				<option value="MANU">Ingeniería en Tecnologías de Manufactura</option>
-											            			</select>
-											            		</div>
-											            	</div>
-
-											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Cuatrimestre:</label>
-											            		<div class="col-lg-9">
-											            			<select class="form-control form-control-select2" data-fouc>
-
-											            				<option value="1">1°</option>
-											            				<option value="2">2°</option>
-											            				<option value="3">3°</option>
-											            				<option value="4">4°</option>
-											            				<option value="5">5°</option>
-											            				<option value="6">6°</option>
-											            				<option value="7">7°</option>
-											            				<option value="8">8°</option>
-											            				<option value="9">9°</option>
-											            				<option value="10">10°</option>
-											            			</select>
-											            		</div>
-											            	</div>
-
-											            	<div class="form-group row">
-											            		<label class="col-lg-3 col-form-label">Tutor (clave):</label>
-											            		<div class="col-lg-9">
-											            			<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
-											            		</div>
-											            	</div>
-
-											            	<div class="text-right">
-											            		<button type="submit" class="btn btn-primary">Guardar cambios <i class="icon-paperplane ml-2"></i></button>
-											            	</div>
-											            </form>
-										            </div>
-									            </div>
-									        </div>	
-
-										</div>
-										<div class="modal-footer">
-											<button class="btn btn-warning" type="button" data-dismiss="modal">Cerrar</button>
-										</div>										
-									</div>
-								</div>
+						<!-- Basic layout-->
+						<div class="card">
+							<div class="card-header header-elements-inline">
+								<h5 class="card-title">Grupos</h5>
+								<div class="header-elements">
+									<div class="list-icons">
+				                		<a class="list-icons-item" data-action="collapse"></a>
+				                		<a class="list-icons-item" data-action="reload"></a>
+				                		<a class="list-icons-item" data-action="remove"></a>
+				                	</div>
+			                	</div>
 							</div>
 
-				<!-- Basic datatable -->
-				<div class="card">
-					<div class="card-header header-elements-inline">
-						<h5 class="card-title">Listado de grupos</h5>
-						<div class="header-elements">
-							<div class="list-icons">
-		                		<a class="list-icons-item" data-action="collapse"></a>
-		                		<a class="list-icons-item" data-action="reload"></a>
-		                		<a class="list-icons-item" data-action="remove"></a>
-		                	</div>
-	                	</div>
+							<div class="card-body">
+								<form action="#">
+									<div class="form-group row">
+										<label class="col-lg-3 col-form-label">Folio:</label>
+										<div class="col-lg-9">
+											<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="192A421" minlength="7" maxlength="7"> 
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-lg-3 col-form-label">Nombre:</label>
+										<div class="col-lg-9">
+											<input type="text" class="form-control" required pattern="[A-Z0-9]+" placeholder="ITI-1-1" maxlength="8">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-lg-3 col-form-label">Carrera:</label>
+										<div class="col-lg-9">
+											<select class="form-control form-control-select2" data-fouc>
+												
+													<option value="ITI">Ingeniería en Tecnologías de la Información</option>
+													<option value="ISA">Ingeniería en Sistemas Automotrices</option>
+												
+													<option value="PYMES">Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</option>
+													<option value="MECA">Ingeniería en Mecatrónica</option>
+													<option value="MANU">Ingeniería en Tecnologías de Manufactura</option>
+												
+											</select>
+										</div>
+									</div>
+
+								<div class="form-group row">
+										<label class="col-lg-3 col-form-label">Cuatrimestre:</label>
+										<div class="col-lg-9">
+											<select class="form-control form-control-select2" data-fouc>
+												
+													<option value="1">1°</option>
+													<option value="2">2°</option>
+												
+													<option value="3">3°</option>
+													<option value="4">4°</option>
+													<option value="5">5°</option>
+													<option value="6">6°</option>
+													<option value="7">7°</option>
+													<option value="8">8°</option>
+													<option value="9">9°</option>
+													<option value="10">10°</option>
+												
+											</select>
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-lg-3 col-form-label">Tutor (clave):</label>
+										<div class="col-lg-9">
+											<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
+										</div>
+									</div>
+
+									<div class="text-right">
+										<button type="submit" class="btn btn-primary">Terminar <i class="icon-paperplane ml-2"></i></button>
+									</div>
+								</form>
+							</div>
+						</div>
+						<!-- /basic layout -->
 					</div>
-
-					<table class="table datatable-basic">
-						<thead>
-							<tr>
-								<th>Opción</th>
-								<th>Folio</th>
-								<th>Nombre</th>
-								<th>Carrera</th>
-								<th>Cuatrimestre</th>
-								<th>Clave del tutor</th>
-								<th class="text-center">Actions</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191A421</td>
-								<td>ITI-1-1</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222201</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191B421</td>
-								<td>ITI-1-2</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222202</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191C421</td>
-								<td>ISA-3-1</td>
-								<td>Ingeniería en Sistemas Automotrices</td>
-								<td>3</td>
-								<td>2222203</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191D421</td>
-								<td>ISA-4-2</td>
-								<td>Ingeniería en Sistemas Automotrices</td>
-								<td>4</td>
-								<td>2222204</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191E421</td>
-								<td>PYMES-1-1</td>
-								<td>Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</td>
-								<td>1</td>
-								<td>2222205</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191F421</td>
-								<td>ITI-1-3</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222206</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191G421</td>
-								<td>ITI-7-1</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>1</td>
-								<td>2222207</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191H421</td>
-								<td>ITI-8-1</td>
-								<td>Ingeniería en Mecatrónica</td>
-								<td>8</td>
-								<td>2222208</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191I421</td>
-								<td>MANU-1-1</td>
-								<td>Ingeniería en Tecnologías de Manufactura</td>
-								<td>1</td>
-								<td>2222209</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-
-							<tr>
-								<td><button class="btn btn-warning" type="button">Eliminar</button></td>
-								<td>191J421</td>
-								<td>ITI-9-2</td>
-								<td>Ingeniería en Tecnologías de la Información</td>
-								<td>9</td>
-								<td>2222210</td>
-								<td class="text-center">
-									<div class="list-icons">
-										<div class="dropdown">
-											<a href="#" class="list-icons-item" data-toggle="dropdown">
-												<i class="icon-menu9"></i>
-											</a>
-
-											<div class="dropdown-menu dropdown-menu-right">
-												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Export to .pdf</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> Export to .csv</a>
-												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
-											</div>
-										</div>
-									</div>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-				<!-- /basic datatable -->
 
 					
 			</div>

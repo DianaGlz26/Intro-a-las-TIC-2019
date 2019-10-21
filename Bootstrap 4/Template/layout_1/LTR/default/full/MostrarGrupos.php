@@ -403,7 +403,7 @@
 						<!-- Main -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
-							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.html" class="nav-link">
+							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.php" class="nav-link">
 								<i class="icon-home4"></i>
 								<span>
 									Inicio
@@ -416,10 +416,10 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Alumnos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Alumnos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.html" class="nav-link active">Agregar alumno</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.html" class="nav-link">Editar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.html" class="nav-link active">Mostrar alumnos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
 							</ul>
 						</li>
 
@@ -427,11 +427,11 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Maestros</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Maestros">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.html" class="nav-link active">Agregar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
 								
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.html" class="nav-link active">Editar maestro</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.html" class="nav-link active">Mostrar maestros</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
 							</ul>
 						</li>
 
@@ -439,9 +439,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Grupos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Grupos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.html" class="nav-link">Añadir grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.html" class="nav-link">Editar grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.html" class="nav-link">Mostrar grupos</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.php" class="nav-link">Editar grupo</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
 							</ul>
 						</li>
 
@@ -449,9 +449,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Materias</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.html" class="nav-link">Añadir materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.html" class="nav-link">Editar materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.html" class="nav-link">Mostrar materias</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.php" class="nav-link">Editar materia</a></li>
+								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
 							
 							</ul>
 						</li>
