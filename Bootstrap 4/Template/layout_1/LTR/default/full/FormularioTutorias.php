@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Agregar alumnos</title>
+	<title>Agregar tutoría</title>
 
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
-	<link href="../../../../global_assets/css/icons/icomoon/styles.min.css" rel="stylesheet" type="text/css">
+	<link href="global_assets/css/icons/icomoon/styles.min.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/layout.min.css" rel="stylesheet" type="text/css">
@@ -17,17 +17,17 @@
 	<!-- /global stylesheets -->
 
 	<!-- Core JS files -->
-	<script src="../../../../global_assets/js/main/jquery.min.js"></script>
-	<script src="../../../../global_assets/js/main/bootstrap.bundle.min.js"></script>
-	<script src="../../../../global_assets/js/plugins/loaders/blockui.min.js"></script>
+	<script src="global_assets/js/main/jquery.min.js"></script>
+	<script src="global_assets/js/main/bootstrap.bundle.min.js"></script>
+	<script src="global_assets/js/plugins/loaders/blockui.min.js"></script>
 	<!-- /core JS files -->
 
 	<!-- Theme JS files -->
-	<script src="../../../../global_assets/js/plugins/forms/selects/select2.min.js"></script>
-	<script src="../../../../global_assets/js/plugins/forms/styling/uniform.min.js"></script>
+	<script src="global_assets/js/plugins/forms/selects/select2.min.js"></script>
+	<script src="global_assets/js/plugins/forms/styling/uniform.min.js"></script>
 
 	<script src="assets/js/app.js"></script>
-	<script src="../../../../global_assets/js/demo_pages/form_layouts.js"></script>
+	<script src="global_assets/js/demo_pages/form_layouts.js"></script>
 	<!-- /theme JS files -->
 
 </head>
@@ -38,7 +38,7 @@
 	<div class="navbar navbar-expand-md navbar-dark">
 		<div class="navbar-brand">
 			<a href="index.html" class="d-inline-block">
-				<img src="../../../../global_assets/images/logo_light.png" alt="">
+				<img src="global_assets/images/logo_light.png" alt="">
 			</a>
 		</div>
 
@@ -161,7 +161,7 @@
 							<ul class="media-list">
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Jordana Ansley</a>
@@ -172,7 +172,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Will Brason</a>
@@ -183,7 +183,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Hanna Walden</a>
@@ -194,7 +194,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Dori Laperriere</a>
@@ -205,7 +205,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<a href="#" class="media-title font-weight-semibold">Vanessa Aurelius</a>
@@ -240,7 +240,7 @@
 							<ul class="media-list">
 								<li class="media">
 									<div class="mr-3 position-relative">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 
 									<div class="media-body">
@@ -257,7 +257,7 @@
 
 								<li class="media">
 									<div class="mr-3 position-relative">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 
 									<div class="media-body">
@@ -274,7 +274,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -290,7 +290,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -306,7 +306,7 @@
 
 								<li class="media">
 									<div class="mr-3">
-										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+										<img src="global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
 									</div>
 									<div class="media-body">
 										<div class="media-title">
@@ -330,7 +330,7 @@
 
 				<li class="nav-item dropdown dropdown-user">
 					<a href="#" class="navbar-nav-link d-flex align-items-center dropdown-toggle" data-toggle="dropdown">
-						<img src="../../../../global_assets/images/placeholders/placeholder.jpg" class="rounded-circle mr-2" height="34" alt="">
+						<img src="global_assets/images/placeholders/placeholder.jpg" class="rounded-circle mr-2" height="34" alt="">
 						<span>Diana</span>
 					</a>
 
@@ -377,7 +377,7 @@
 					<div class="card-body">
 						<div class="media">
 							<div class="mr-3">
-								<a href="#"><img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="38" height="38" class="rounded-circle" alt=""></a>
+								<a href="#"><img src="global_assets/images/placeholders/placeholder.jpg" width="38" height="38" class="rounded-circle" alt=""></a>
 							</div>
 
 							<div class="media-body">
@@ -403,23 +403,21 @@
 						<!-- Main -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
-							<a href="index.html" class="nav-link">
+							<a href="index2.php" class="nav-link active">
 								<i class="icon-home4"></i>
 								<span>
 									Inicio
-									<span class="d-block font-weight-normal opacity-50">No active orders</span>
 								</span>
 							</a>
 						</li>
-
 						<li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Alumnos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Alumnos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.html" class="nav-link">Agregar alumno</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.html" class="nav-link">Editar alumno</a></li>
+								<li class="nav-item"><a href="FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
+								<li class="nav-item"><a href="EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.html#" class="nav-link active">Mostrar alumnos</a></li>
+								<li class="nav-item"><a href="MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
 							</ul>
 						</li>
 
@@ -427,11 +425,11 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Maestros</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Maestros">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.html" class="nav-link active">Agregar maestro</a></li>
+								<li class="nav-item"><a href="FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
 								
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.html" class="nav-link active">Editar maestro</a></li>
+								<li class="nav-item"><a href="EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.html" class="nav-link active">Mostrar maestros</a></li>
+								<li class="nav-item"><a href="MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
 							</ul>
 						</li>
 
@@ -439,9 +437,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Grupos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Grupos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.html" class="nav-link">Añadir grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.html" class="nav-link">Editar grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.html" class="nav-link">Mostrar grupos</a></li>
+								<li class="nav-item"><a href="FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
+								<li class="nav-item"><a href="EditarGrupo.php" class="nav-link">Editar grupo</a></li>
+								<li class="nav-item"><a href="MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
 							</ul>
 						</li>
 
@@ -449,9 +447,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Materias</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.html" class="nav-link">Añadir materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.html" class="nav-link">Editar materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.html" class="nav-link">Mostrar materias</a></li>
+								<li class="nav-item"><a href="FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
+								<li class="nav-item"><a href="EditarMateria.php" class="nav-link">Editar materia</a></li>
+								<li class="nav-item"><a href="MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
 							
 							</ul>
 						</li>
@@ -460,14 +458,20 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Transporte</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioTransporte.html" class="nav-link">Agregar transporte</a></li>
+								<li class="nav-item"><a href="FormularioTransporte.php" class="nav-link">Agregar transporte</a></li>
 											
 							</ul>
 						</li>
 
-						
-						<!-- /main -->					
-						
+						<li class="nav-item nav-item-submenu">
+							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Tutorías</span></a>
+
+							<ul class="nav nav-group-sub" data-submenu-title="Materias">
+								<li class="nav-item"><a href="FormularioTutorias.php" class="nav-link">Agregar tutoría</a></li>
+								<li class="nav-item"><a href="MostrarTutorias.php" class="nav-link">Listado de tutorías</a></li>
+							
+							</ul>
+						</li>
 					</ul>
 				</div>
 				<!-- /main navigation -->
@@ -486,7 +490,7 @@
 			<div class="page-header page-header-light">
 				<div class="page-header-content header-elements-md-inline">
 					<div class="page-title d-flex">
-						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Alumnos</span> - Agregar alumno</h4>
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Tutorías</span> - Agregar tutoría</h4>
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
 					</div>
 
@@ -503,8 +507,8 @@
 					<div class="d-flex">
 						<div class="breadcrumb">
 							<a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Inicio</a>
-							<a href="form_layout_horizontal.html" class="breadcrumb-item">Alumnos</a>
-							<span class="breadcrumb-item active">Agregar alumno</span>
+							<a href="form_layout_horizontal.html" class="breadcrumb-item">Tutorías</a>
+							<span class="breadcrumb-item active">Agregar tutoría</span>
 						</div>
 
 						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
@@ -548,7 +552,7 @@
 						<!-- Basic layout-->
 						<div class="card">
 							<div class="card-header header-elements-inline">
-								<h5 class="card-title">Alumnos</h5>
+								<h5 class="card-title">Datos del alumno</h5>
 								<div class="header-elements">
 									<div class="list-icons">
 				                		<a class="list-icons-item" data-action="collapse"></a>
@@ -563,21 +567,14 @@
 									<div class="form-group row">
 										<label class="col-lg-3 col-form-label">Nombre:</label>
 										<div class="col-lg-9">
-											<input type="text" class="form-control" required pattern="[A-Za-z]+" placeholder="Christina Abigail" maxlength="30"> 
+											<input type="text" class="form-control" required pattern="[A-Za-z]+" placeholder="Christina Abigail Barrera Castillo" maxlength="30"> 
 										</div>
 									</div>
 
 									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Apellido:</label>
+										<label class="col-lg-3 col-form-label">Matrícula:</label>
 										<div class="col-lg-9">
-											<input type="text" class="form-control" required pattern="[A-Za-z]+" placeholder="Barrera Castillo" maxlength="30">
-										</div>
-									</div>
-
-									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Correo:</label>
-										<div class="col-lg-9">
-											<input type="text" class="form-control" required placeholder="christina.barrera12@gmail.com" maxlength="30">
+											<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
 										</div>
 									</div>
 
@@ -597,113 +594,169 @@
 										</div>
 									</div>
 
-								<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Cuatrimestre:</label>
-										<div class="col-lg-9">
-											<select class="form-control form-control-select2" data-fouc>
-												
-													<option value="1">1°</option>
-													<option value="2">2°</option>
-												
-													<option value="3">3°</option>
-													<option value="4">4°</option>
-													<option value="5">5°</option>
-													<option value="6">6°</option>
-													<option value="7">7°</option>
-													<option value="8">8°</option>
-													<option value="9">9°</option>
-													<option value="10">10°</option>
-												
-											</select>
-										</div>
-									</div>
-
-
 									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Matrícula:</label>
+										<label class="col-lg-3 col-form-label">Correo:</label>
 										<div class="col-lg-9">
-											<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
+											<input type="text" class="form-control" required placeholder="christina.barrera12@gmail.com" maxlength="30">
 										</div>
 									</div>
 
-									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Género:</label>
-										<div class="col-lg-9">
-											<div class="form-check form-check-inline">
-												<label class="form-check-label">
-													<input type="radio" class="form-input-styled" name="gender" checked data-fouc>
-													Masculino
-												</label>
-											</div>
+							        <div class="card-header header-elements-inline">
+							        	<h5 class="card-title">Datos del maestro</h5>
+							        </div>
 
-											<div class="form-check form-check-inline">
-												<label class="form-check-label">
-													<input type="radio" class="form-input-styled" name="gender" data-fouc>
-													Femenino
-												</label>
-											</div>
-										</div>
-									</div>
+							        <div class="card-body">
+							        	<form action="#">
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Nombre:</label>
+							        			<div class="col-lg-9">
+							        				<input type="text" class="form-control"
+							        				 required pattern="[A-Za-z]+" placeholder="Christina Abigail Barrera Castillo" maxlength="30"> 
+							        			</div>
+							        		</div>
 
-									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Teléfono:</label>
-										<div class="col-lg-9">
-											<input type="text" class="form-control" minlength="10" maxlength="10" pattern="[0-9]+" placeholder="(834) 347-98-23" title="El teléfono debe tener 10 cifras">
-										</div>
-									</div>
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Clave de profesor:</label>
+							        			<div class="col-lg-9">
+							        				<input type="text" class="form-control" minlength="7" maxlength="7" required pattern="[0-9]+" placeholder="1927421">
+							        			</div>
+							        		</div>
 
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Carrera:</label>
+							        			<div class="col-lg-9">
+							        				<select class="form-control form-control-select2" data-fouc>
+							        					<option value="ITI">Ingeniería en Tecnologías de la Información</option>
+							        					<option value="ISA">Ingeniería en Sistemas Automotrices</option>
+							        					<option value="PYMES">Licenciatura en Administración y Gestión de Pequeñas y Medianas Empresas</option>
+							        					<option value="MECA">Ingeniería en Mecatrónica</option>
+							        					<option value="MANU">Ingeniería en Tecnologías de Manufactura</option>
+							        				</select>
+							        			</div>
+							        		</div>
 
-										<div class="form-group row">
-											<label class="col-lg-3 col-form-label">Ubicación:</label>
-											<div class="col-lg-9">
-												<div class="row">
-													<div class="col-md-6">
-														<div class="mb-3">
-								                            <select data-placeholder="Selecciona tu país" class="form-control form-control-select2" data-fouc>
-								                            	<option></option>
-								                                <option value="1">México</option> 
-								                                <option value="2">USA</option> 
-								                                <option value="3">Canadá</option> 
-								                                <option value="4">Otro</option> 
-								                            </select>
-							                            </div>
+							        		<!-- Calendar widget -->
+							        		<div class="card">
+							        			<div class="form-control-datepicker border-0"></div>
+							        		<div>
+							        		<!-- /calendar widget -->
 
-							                            <input type="text" placeholder="Código postal" class="form-control" pattern="[0-9]+" minlength="5" maxlength="5" required>
-													</div>
+							        		 <div class="card-header header-elements-inline">
+							        	<h5 class="card-title">Datos de la tutoría</h5>
+							        </div>
 
-													<div class="col-md-6">
-														<input type="text" placeholder="Estado/Entidad" class="form-control mb-3" pattern="[A-Za-z]+" required>
-														<input type="text" placeholder="Ciudad" class="form-control" pattern="[A-Za-z]+" required>
-													</div>
-												</div>
-											</div>
-										</div>
+							        <div class="card-body">
+							        	<form action="#">
+							        		
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">ID:</label>
+							        			<div class="col-lg-9">
+							        				<input type="text" class="form-control" minlength="0" maxlength="0" value="1" autocomplete="on">
+							        			</div>
+							        		</div>
 
-										<div class="form-group row">
-											<label class="col-lg-3 col-form-label">Dirección:</label>
-											<div class="col-lg-9">
-												<input type="text" placeholder="Domicilio" class="form-control" required>
-											</div>
-										</div>
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Tema a tratar:</label>
+							        			<div class="col-lg-9">
+							        				<input type="text" class="form-control"
+							        				 required pattern="[A-Za-z]+" placeholder="Uso de excel" maxlength="30"> 
+							        			</div>
+							        		</div>
 
-									<div class="form-group row">
-										<label class="col-lg-3 col-form-label">Comentarios:</label>
-										<div class="col-lg-9">
-											<textarea rows="5" cols="5" class="form-control" placeholder="Escribe tu comentario aquí"></textarea>
-										</div>
-									</div>
+							        		<h6>Fecha de sesión</h6> 
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Día:</label>
+							        			<div class="col-lg-9">
+							        				<select class="form-control form-control-select2" data-fouc>
+							        					<option value="Uno">1</option>
+							        					<option value="Dos">2</option>
+							        					<option value="Tres">3</option>
+							        					<option value="Cuatro">4</option>
+							        					<option value="Cinco">5</option>
+							        					<option value="Seis">6</option>
+							        					<option value="Siete">7</option>
+							        					<option value="Ocho">8</option>
+							        					<option value="Nueve">9</option>
+							        					<option value="Diez">10</option>
+							        					<option value="<Once">11</option>
+							        					<option value="Doce">12</option>
+							        					<option value="Trece">13</option>
+							        					<option value="Catorce">14</option>
+							        					<option value="Quince">15</option>
+							        					<option value="Dieciseis">16</option>
+							        					<option value="Diecisiete">17</option>
+							        					<option value="Dieciocho">18</option>
+							        					<option value="Diecinueve">19</option>
+							        					<option value="Veinte">20</option>
+							        					<option value="<Veintiuno">21</option>
+							        					<option value="Veintidos">22</option>
+							        					<option value="Veintitres">23</option>
+							        					<option value="Veinticuatro">24</option>
+							        					<option value="Veinticinco">25</option>
+							        					<option value="Veintiseis">26</option>
+							        					<option value="Veintisiete">27</option>
+							        					<option value="Veintiocho">28</option>
+							        					<option value="Veintinueve">29</option>
+							        					<option value="Treinta">30</option>
+							        					<option value="Treinta y uno">31</option>
+							        				</select>
+							        			</div>
+							        		</div>
 
-									<div class="text-right">
-										<button type="submit" class="btn btn-primary">Terminar <i class="icon-paperplane ml-2"></i></button>
-									</div>
-								</form>
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Mes:</label>
+							        			<div class="col-lg-9">
+							        				<select class="form-control form-control-select2" data-fouc>
+							        					<option value="UnoM">1</option>
+							        					<option value="DosM">2</option>
+							        					<option value="TresM">3</option>
+							        					<option value="CuatroM">4</option>
+							        					<option value="CincoM">5</option>
+							        					<option value="SeisM">6</option>
+							        					<option value="SieteM">7</option>
+							        					<option value="OchoM">8</option>
+							        					<option value="NueveM">9</option>
+							        					<option value="DiezM">10</option>
+							        					<option value="<OnceM">11</option>
+							        					<option value="DoceM">12</option>
+							        				</select>
+							        			</div>
+							        		</div>
+
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Año:</label>
+							        			<div class="col-lg-9">
+							        				<input type="text" class="form-control" minlength="0" maxlength="0" value="2019" autocomplete="on">
+							        			</div>
+							        		</div>
+
+							        		<div class="form-group row">
+							        			<label class="col-lg-3 col-form-label">Hora:</label>
+							        			<div class="col-lg-9">
+							        				<select class="form-control form-control-select2" data-fouc>
+							        					<option value="UnoH">7:00-7:54</option>
+							        					<option value="DosH">7:55-8:49</option>
+							        					<option value="TresH">8:50-9:44</option>
+							        					<option value="CuatroH">9:45-10:39</option>
+							        					<option value="CincoH">11:10-12:04</option>
+							        					<option value="SeisH">12:05-12:59</option>
+							        					<option value="SieteH">13:00-13:59</option>
+							        					<option value="OchoH">14:00-14:59</option>
+							        					<option value="NueveH">15:00-15:59</option>
+							        				</select>
+							        			</div>
+							        		</div>
+
+							        		<div class="text-right">
+							        			<button type="submit" class="btn btn-primary">Terminar <i class="icon-paperplane ml-2"></i></button>
+							        		</div>		
+							        	</form>
+							        </div>
+							    </div>
+							    <!-- /basic layout -->
+
 							</div>
 						</div>
-						<!-- /basic layout -->
-					</div>
-
-					
-			</div>
 			<!-- /content area -->
 
 

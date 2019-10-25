@@ -403,23 +403,21 @@
 						<!-- Main -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item">
-							<a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/index2.php" class="nav-link">
+							<a href="index2.php" class="nav-link active">
 								<i class="icon-home4"></i>
 								<span>
 									Inicio
-									<span class="d-block font-weight-normal opacity-50">No active orders</span>
 								</span>
 							</a>
 						</li>
-
 						<li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Alumnos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Alumnos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
+								<li class="nav-item"><a href="FormularioAlumnos.php" class="nav-link active">Agregar alumno</a></li>
+								<li class="nav-item"><a href="EditarAlumnos.php" class="nav-link">Editar alumno</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
+								<li class="nav-item"><a href="MostrarAlumnos.php" class="nav-link active">Mostrar alumnos</a></li>
 							</ul>
 						</li>
 
@@ -427,11 +425,11 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Maestros</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Maestros">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
+								<li class="nav-item"><a href="FormularioMaestros.php" class="nav-link active">Agregar maestro</a></li>
 								
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
+								<li class="nav-item"><a href="EditarMaestros.php" class="nav-link active">Editar maestro</a></li>
 
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
+								<li class="nav-item"><a href="MostrarMaestros.php" class="nav-link active">Mostrar maestros</a></li>
 							</ul>
 						</li>
 
@@ -439,9 +437,9 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Grupos</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Grupos">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarGrupo.php" class="nav-link">Editar grupo</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
+								<li class="nav-item"><a href="FormularioGrupos.php" class="nav-link">Añadir grupo</a></li>
+								<li class="nav-item"><a href="EditarGrupo.php" class="nav-link">Editar grupo</a></li>
+								<li class="nav-item"><a href="MostrarGrupos.php" class="nav-link">Mostrar grupos</a></li>
 							</ul>
 						</li>
 
@@ -449,17 +447,35 @@
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Materias</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Materias">
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducción%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/EditarMateria.php" class="nav-link">Editar materia</a></li>
-								<li class="nav-item"><a href="file:///C:/Users/MA%20Reyes%20Buenrostro/Desktop/UPV/PRIMER%20CUATRIMESTRE/Introducci%C3%B3n%20a%20las%20TI/Bootstrap%204/Template/layout_1/LTR/default/full/MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
+								<li class="nav-item"><a href="FormularioMaterias.php" class="nav-link">Añadir materia</a></li>
+								<li class="nav-item"><a href="EditarMateria.php" class="nav-link">Editar materia</a></li>
+								<li class="nav-item"><a href="MostrarMaterias.php" class="nav-link">Mostrar materias</a></li>
 							
 							</ul>
 						</li>
-						
-						<!-- /main -->						
+
+						<li class="nav-item nav-item-submenu">
+							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Transporte</span></a>
+
+							<ul class="nav nav-group-sub" data-submenu-title="Materias">
+								<li class="nav-item"><a href="FormularioTransporte.php" class="nav-link">Agregar transporte</a></li>
+											
+							</ul>
+						</li>
+
+						<li class="nav-item nav-item-submenu">
+							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Tutorías</span></a>
+
+							<ul class="nav nav-group-sub" data-submenu-title="Materias">
+								<li class="nav-item"><a href="FormularioTutorias.php" class="nav-link">Agregar tutoría</a></li>
+								<li class="nav-item"><a href="MostrarTutorias.php" class="nav-link">Listado de tutorías</a></li>
+							
+							</ul>
+						</li>
 					</ul>
 				</div>
 				<!-- /main navigation -->
+
 
 			</div>
 			<!-- /sidebar content -->

@@ -462,9 +462,20 @@
 											
 							</ul>
 						</li>
+
+						<li class="nav-item nav-item-submenu">
+							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Tutorías</span></a>
+
+							<ul class="nav nav-group-sub" data-submenu-title="Materias">
+								<li class="nav-item"><a href="FormularioTutorias.php" class="nav-link">Agregar tutoría</a></li>
+								<li class="nav-item"><a href="MostrarTutorias.php" class="nav-link">Listado de tutorías</a></li>
+							
+							</ul>
+						</li>
 					</ul>
 				</div>
 				<!-- /main navigation -->
+
 
 			</div>
 			<!-- /sidebar content -->
